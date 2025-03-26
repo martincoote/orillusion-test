@@ -10,7 +10,6 @@ import {
   DirectLight,
   HoverCameraController,
   AtmosphericComponent,
-  Vector3
 } from '@orillusion/core';
 
 export default async function demo(){
